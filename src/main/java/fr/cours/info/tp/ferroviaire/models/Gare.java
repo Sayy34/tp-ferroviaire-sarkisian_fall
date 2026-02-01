@@ -36,4 +36,9 @@ public class Gare {
                 ", nombreQuais=" + nombreQuais +
                 '}';
     }
+    public interface IGare {
+        String getId();
+        String getNom();           // ← Perso A
+        int getNombreQuais();      // ← TOI (Binôme B) ← AJOUTE ÇA !
+    }
 }
