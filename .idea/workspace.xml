@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613d3450-f941-41b1-a915-a54a6c709846" name="Changes" comment="B ajoute nombreQuais">
+    <list default="true" id="613d3450-f941-41b1-a915-a54a6c709846" name="Changes" comment="B ajoute un nom">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2026_20_50__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/cours/info/tp/ferroviaire/models/Gare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/cours/info/tp/ferroviaire/models/Gare.java" afterDir="false" />
     </list>
@@ -118,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769974634119</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="B ajoute un nom">
+      <option name="closed" value="true" />
+      <created>1769975640140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769975640140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="B ajoute nombreQuais" />
-    <option name="LAST_COMMIT_MESSAGE" value="B ajoute nombreQuais" />
+    <MESSAGE value="B ajoute un nom" />
+    <option name="LAST_COMMIT_MESSAGE" value="B ajoute un nom" />
   </component>
 </project>
