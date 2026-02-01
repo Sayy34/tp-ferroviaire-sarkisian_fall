@@ -4,6 +4,7 @@ public class Gare {
     private String nom;
     private int nombreQuais;
     private String Surnom;
+    private String conflit;
     // Constructeurs
     public Gare() {
     }
