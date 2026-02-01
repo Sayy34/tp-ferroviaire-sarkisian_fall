@@ -3,14 +3,13 @@ package fr.cours.info.tp.ferroviaire.models;
 public class Gare {
     private String nom;
     private int nombreQuais;
-    private String conflit;
+    private String Surnom;
+
     private String conflitsvp;
 
     // Constructeurs
     public Gare() {
     }
-    private String nomGare = "TGV";
-
 
     public Gare(String nom, int nombreQuais) {
         this.nom = nom;
