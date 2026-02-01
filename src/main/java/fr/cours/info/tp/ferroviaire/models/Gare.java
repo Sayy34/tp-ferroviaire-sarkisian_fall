@@ -3,7 +3,7 @@ package fr.cours.info.tp.ferroviaire.models;
 public class Gare {
     private String nom;
     private int nombreQuais;
-
+    private String Surnom;
     // Constructeurs
     public Gare() {}
 
