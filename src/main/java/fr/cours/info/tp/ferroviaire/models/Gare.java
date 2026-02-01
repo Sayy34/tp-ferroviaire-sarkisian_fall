@@ -5,7 +5,8 @@ public class Gare {
     private int nombreQuais;
     private String Surnom;
     // Constructeurs
-    public Gare() {}
+    public Gare() {
+    }
 
     public Gare(String nom, int nombreQuais) {
         this.nom = nom;
@@ -35,5 +36,13 @@ public class Gare {
                 "nom='" + nom + '\'' +
                 ", nombreQuais=" + nombreQuais +
                 '}';
+    }
+
+    public interface IGare {
+        String getId();
+
+        String getNom();           // ← Perso A
+
+        int getNombreQuais();      // ←Perso B
     }
 }
