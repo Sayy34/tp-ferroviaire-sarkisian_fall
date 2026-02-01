@@ -46,4 +46,6 @@ public class Gare {
 
         int getNombreQuais();      // ←Perso B
     }
+    private String nom2;
+
 }
